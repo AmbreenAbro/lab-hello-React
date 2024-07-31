@@ -94,4 +94,4 @@ react-logo - Added in this repo as an svg
 
   
 
-Happy coding! :heart:
+Happy coding!
